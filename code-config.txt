@@ -1,0 +1,39 @@
+code config
+
+
+rag-ollama
+　|
+　|--- .env
+　|
+　|--- async_processor.py
+　|
+　|--- config.py
+　|
+　|--- logger.py
+　|
+　|--- main.py
+　|
+　|--- ollama_client.py
+　|
+　|--- routes.py
+　|
+　|--- teams_auth.py
+　|
+　|--- teams_webhook.py
+　|
+　|--- rgork_rag-ollama.bat
+　|
+　|--- start_rag-ollama.bat
+
+
+
+
+
+
+
+
+
+
+
+
+
